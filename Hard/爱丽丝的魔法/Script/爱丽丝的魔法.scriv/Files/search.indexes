@@ -6,10 +6,28 @@
             <Title>人物设定</Title>
             <Synopsis>包含所有出场人物的设定</Synopsis>
         </Document>
+        <Document ID="20B2213E-C9E6-4F25-B850-437C239F990F">
+            <Title>西卢埃特</Title>
+            <Text>西卢埃特，名字源于法语Silhouette，中文解释为如影随形。
+在剧情开始以黑猫的形态跟在女主身边，陪伴着她走到中期。
+中期之后变成人形继续协助女主推进剧情，并达到结局。</Text>
+        </Document>
+        <Document ID="36DFE7FC-F413-4535-A23C-9ADCD417074D">
+            <Title>女主眼中的世界</Title>
+        </Document>
         <Document ID="386748C1-2E32-45DD-B9AA-37D6C4CC09E6"/>
+        <Document ID="4D8AE169-68FC-478A-8AB1-B81F8C0CDDBD"/>
         <Document ID="4E58437F-00AA-4FEF-946C-3FB04EB67856">
             <Title>门缝初开</Title>
             <Synopsis>开头，初步阐述世界观</Synopsis>
+        </Document>
+        <Document ID="541E9B50-48F5-4F12-B7D2-DD5B3BA8C23A">
+            <Title>爱丽丝</Title>
+            <Text>爱丽丝，全作唯一反派（？）
+整个世界魔法体系的源头，世界的缔造者。
+因为过往的伤心事决定将世界打碎重来。
+本质上为女主在现实世界中内心的阴暗面。
+代表的是世俗的“崇高”。</Text>
         </Document>
         <Document ID="5BCCA907-6AAE-456D-BE8F-F6FD3DED3A07">
             <Title>彩蛋flag</Title>
@@ -17,6 +35,10 @@
 获得条件：通关隐藏剧情，从获胜信息中拼出完整的flag
 具体细节：利用工具进入隐藏地图：长眠之地，通关得到中间三分之一的flag，然后开启新的路线到隐藏地图：被遗忘的花园。在被遗忘的花园处击败开发者即可获得最后一部分的flag。前三分之一的flag在武器：测试用权杖的描述里面。
 以上内容中，测试用权杖和隐藏地图：长眠之地需要修改配置文件调出。</Text>
+        </Document>
+        <Document ID="730E2ED4-4C20-412A-8E73-2BCB841D23B2">
+            <Title>人物设定-1</Title>
+            <Synopsis>包含所有出场人物的设定</Synopsis>
         </Document>
         <Document ID="741547F9-ED42-4C9F-8749-1DEE781DEE6D">
             <Title>故事大纲</Title>
@@ -26,17 +48,34 @@
             <Title>门1/4开</Title>
             <Synopsis>发展，让故事继续进行</Synopsis>
         </Document>
+        <Document ID="889FE79D-9726-42E5-917C-C0288B7233BA">
+            <Title>西卢埃特</Title>
+            <Text>西卢埃特，名字源于法语Silhouette，中文解释为如影随形。
+在剧情开始以黑猫的形态跟在女主身边，陪伴着她走到中期。
+中期之后变成人形继续协助女主推进剧情，并达到结局。
+他代表着“恐惧”。</Text>
+        </Document>
         <Document ID="A350D9C8-5B60-4093-AF7C-4D14A22D2939">
             <Title>数值设计</Title>
+            <Synopsis>如何设计数值，在不破坏选手体验的情况下延长他们所花费的时间。</Synopsis>
         </Document>
         <Document ID="AC988DF0-3A03-4D95-99AC-57B2CA16B767">
             <Title>门半开</Title>
             <Synopsis>高潮，解开所有的谜底</Synopsis>
         </Document>
+        <Document ID="AFFAA3CB-9852-429C-B53A-7DD5D258C87B"/>
+        <Document ID="B406D6F7-1C61-4247-9FAF-3014E08A2E93"/>
         <Document ID="B9794378-9C51-4CAE-9224-CA653B0858EF">
             <Title>门半开</Title>
             <Synopsis>高潮，展现一切的时候</Synopsis>
         </Document>
+        <Document ID="BC4E1170-B364-470F-B039-7935443092A0">
+            <Title>凯瑟琳</Title>
+            <Text>凯瑟琳，源于法语Catherine ，象征着“纯洁”。
+本作女主，由她负责引领整个故事线的进展。
+她同样象征着“奇迹”。</Text>
+        </Document>
+        <Document ID="D57ABA76-B7A5-4CD7-BE2A-E2302F72D8C6"/>
         <Document ID="DBE19F98-48BF-494E-8491-0613295FCB8D">
             <Title>结局：门被推开</Title>
             <Synopsis>结局，在现实中追求虚幻乐园的美好</Synopsis>
@@ -50,6 +89,19 @@
         <Document ID="ECFB2AFB-3337-4D34-836E-EE44B4C50F49">
             <Title>flag藏匿要领</Title>
             <Synopsis>正常flag和彩蛋flag藏匿思路</Synopsis>
+        </Document>
+        <Document ID="F251D0FA-56FD-405A-A99C-6CDBBDFB8479">
+            <Title>莱昂</Title>
+            <Text>莱昂，本作女主所在学校的校长，负责指引维护这个世界的安定。
+他和爱丽丝貌似有着说不清的联系。
+象征着“神秘”。</Text>
+        </Document>
+        <Document ID="F36C0DC6-D9D2-4700-9EB1-A4547271A0A2">
+            <Title>
+索菲</Title>
+            <Text>
+索菲
+</Text>
         </Document>
     </Documents>
 </SearchIndexes>
