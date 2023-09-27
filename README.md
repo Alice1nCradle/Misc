@@ -11,11 +11,10 @@
 
 ### Medium
 
-Coming soon……
+1. 第五条古则
 
 
 
 ### Hard
 
-1. 第五条古则
-2. Coming soon……
+1. 爱丽丝的魔法
