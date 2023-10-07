@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1E886A06-C706-4520-8E6E-094A716B9EC2" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-DA3MDL1" Modified="2023-09-27 22:48:52 +0800" ModID="849112BF-7A2F-48F0-B1CF-376C6548737B">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1E886A06-C706-4520-8E6E-094A716B9EC2" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-DA3MDL1" Modified="2023-10-07 23:43:57 +0800" ModID="5CB73507-9C04-4604-AB1D-7EC9972C574A">
     <Binder>
         <BinderItem UUID="E4470052-8714-471F-BBA0-6324319860A3" Type="DraftFolder" Created="2023-09-27 21:09:17 +0800" Modified="2023-09-27 21:15:15 +0800">
             <Title>剧情正文</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <CorkboardAndOutliner>
-                <SelectedSubdocumentUUIDs>AC988DF0-3A03-4D95-99AC-57B2CA16B767</SelectedSubdocumentUUIDs>
-                <CorkboardSettings>
-                    <Arrangement>Linear</Arrangement>
-                </CorkboardSettings>
-            </CorkboardAndOutliner>
             <Children>
                 <BinderItem UUID="4E58437F-00AA-4FEF-946C-3FB04EB67856" Type="Folder" Created="2023-09-27 21:09:38 +0800" Modified="2023-09-27 21:10:33 +0800">
                     <Title>门缝初开</Title>
@@ -22,13 +16,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="36DFE7FC-F413-4535-A23C-9ADCD417074D" Type="Text" Created="2023-09-27 21:45:34 +0800" Modified="2023-09-27 21:45:55 +0800">
+                        <BinderItem UUID="36DFE7FC-F413-4535-A23C-9ADCD417074D" Type="Text" Created="2023-09-27 21:45:34 +0800" Modified="2023-10-07 21:30:54 +0800">
                             <Title>女主眼中的世界</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>0,0</TextSelection>
+                                <TextSelection>5,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -52,8 +46,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="AC988DF0-3A03-4D95-99AC-57B2CA16B767" Type="Folder" Created="2023-09-27 21:11:21 +0800" Modified="2023-09-27 21:11:41 +0800">
-                    <Title>门半开</Title>
+                <BinderItem UUID="AC988DF0-3A03-4D95-99AC-57B2CA16B767" Type="Folder" Created="2023-09-27 21:11:21 +0800" Modified="2023-10-07 23:41:16 +0800">
+                    <Title>美好结局：门半开</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -71,8 +65,8 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem UUID="DBE19F98-48BF-494E-8491-0613295FCB8D" Type="Folder" Created="2023-09-27 21:11:45 +0800" Modified="2023-09-27 21:12:23 +0800">
-                    <Title>结局：门被推开</Title>
+                <BinderItem UUID="DBE19F98-48BF-494E-8491-0613295FCB8D" Type="Folder" Created="2023-09-27 21:11:45 +0800" Modified="2023-10-07 23:40:40 +0800">
+                    <Title>真实结局：门被推开</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
@@ -86,6 +80,25 @@
                             </MetaData>
                             <TextSettings>
                                 <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem UUID="44AF2E3C-F26F-40D9-B985-EA086725E22F" Type="Folder" Created="2023-10-07 21:34:04 +0800" Modified="2023-10-07 23:43:54 +0800">
+                    <Title>制作人员名单</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem UUID="E15070E8-56EB-4736-BE4D-251DD6532066" Type="Text" Created="2023-10-07 21:34:46 +0800" Modified="2023-10-07 23:41:40 +0800">
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>78,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -122,22 +135,22 @@
                                 <TextSelection>96,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BC4E1170-B364-470F-B039-7935443092A0" Type="Text" Created="2023-09-27 21:36:18 +0800" Modified="2023-09-27 21:39:49 +0800">
+                        <BinderItem UUID="BC4E1170-B364-470F-B039-7935443092A0" Type="Text" Created="2023-09-27 21:36:18 +0800" Modified="2023-10-07 21:57:05 +0800">
                             <Title>凯瑟琳</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>60,0</TextSelection>
+                                <TextSelection>70,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="541E9B50-48F5-4F12-B7D2-DD5B3BA8C23A" Type="Text" Created="2023-09-27 21:38:04 +0800" Modified="2023-09-27 21:40:01 +0800">
+                        <BinderItem UUID="541E9B50-48F5-4F12-B7D2-DD5B3BA8C23A" Type="Text" Created="2023-09-27 21:38:04 +0800" Modified="2023-10-07 21:29:15 +0800">
                             <Title>爱丽丝</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>85,0</TextSelection>
+                                <TextSelection>87,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F251D0FA-56FD-405A-A99C-6CDBBDFB8479" Type="Text" Created="2023-09-27 21:40:35 +0800" Modified="2023-09-27 21:45:18 +0800">
@@ -179,22 +192,22 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="E122A5BC-B285-4E96-A8F0-27DCAE2ADA3A" Type="Text" Created="2023-09-27 21:14:19 +0800" Modified="2023-09-27 21:16:45 +0800">
+                        <BinderItem UUID="E122A5BC-B285-4E96-A8F0-27DCAE2ADA3A" Type="Text" Created="2023-09-27 21:14:19 +0800" Modified="2023-10-07 21:56:03 +0800">
                             <Title>正常flag</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>38,0</TextSelection>
+                                <TextSelection>40,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="5BCCA907-6AAE-456D-BE8F-F6FD3DED3A07" Type="Text" Created="2023-09-27 21:14:22 +0800" Modified="2023-09-27 21:28:12 +0800">
+                        <BinderItem UUID="5BCCA907-6AAE-456D-BE8F-F6FD3DED3A07" Type="Text" Created="2023-09-27 21:14:22 +0800" Modified="2023-10-07 23:42:55 +0800">
                             <Title>彩蛋flag</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>207,0</TextSelection>
+                                <TextSelection>37,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -215,63 +228,6 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
-            <Children>
-                <BinderItem UUID="10937356-F646-4E20-8A99-D0444A9B16BD" Type="Text" Created="2023-09-27 21:09:17 +0800" Modified="2023-09-27 21:09:17 +0800">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="B9794378-9C51-4CAE-9224-CA653B0858EF" Type="Text" Created="2023-09-27 21:10:56 +0800" Modified="2023-09-27 21:11:15 +0800">
-                    <Title>门半开</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="386748C1-2E32-45DD-B9AA-37D6C4CC09E6" Type="Text" Created="2023-09-27 21:12:35 +0800" Modified="2023-09-27 21:12:35 +0800">
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="F36C0DC6-D9D2-4700-9EB1-A4547271A0A2" Type="Text" Created="2023-09-27 21:31:26 +0800" Modified="2023-09-27 21:35:57 +0800">
-                    <Title>
-索菲</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem UUID="730E2ED4-4C20-412A-8E73-2BCB841D23B2" Type="Folder" Created="2023-09-27 21:36:08 +0800" Modified="2023-09-27 21:36:08 +0800">
-                    <Title>人物设定-1</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>0,0</TextSelection>
-                    </TextSettings>
-                    <Children>
-                        <BinderItem UUID="20B2213E-C9E6-4F25-B850-437C239F990F" Type="Text" Created="2023-09-27 21:36:08 +0800" Modified="2023-09-27 21:36:08 +0800">
-                            <Title>西卢埃特</Title>
-                            <MetaData>
-                                <IncludeInCompile>Yes</IncludeInCompile>
-                            </MetaData>
-                            <TextSettings>
-                                <TextSelection>86,0</TextSelection>
-                            </TextSettings>
-                        </BinderItem>
-                    </Children>
-                </BinderItem>
-            </Children>
         </BinderItem>
     </Binder>
     <Collections>
@@ -330,13 +286,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-09-27 21:09:17 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="55" Characters="546" Date="2023-09-27 22:48:52 +0800"/>
+        <PreviousSession Words="9" Characters="-31" Date="2023-10-07 23:43:57 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-09-27 00:00:00 +0800">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
-        <OtherWordCount>55</OtherWordCount>
-        <OtherCharCount>546</OtherCharCount>
+    <RecentWritingHistory Date="2023-10-07 00:00:00 +0800">
+        <DraftWordCount>21</DraftWordCount>
+        <DraftCharCount>124</DraftCharCount>
+        <OtherWordCount>-20</OtherWordCount>
+        <OtherCharCount>-245</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
