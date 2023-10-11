@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="1E886A06-C706-4520-8E6E-094A716B9EC2" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-DA3MDL1" Modified="2023-10-07 23:43:57 +0800" ModID="5CB73507-9C04-4604-AB1D-7EC9972C574A">
+<ScrivenerProject Template="No" Version="2.0" Identifier="1E886A06-C706-4520-8E6E-094A716B9EC2" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-DA3MDL1" Modified="2023-10-11 00:36:24 +0800" ModID="17A62418-5A92-40AD-860C-F19631A39DF0">
     <Binder>
         <BinderItem UUID="E4470052-8714-471F-BBA0-6324319860A3" Type="DraftFolder" Created="2023-09-27 21:09:17 +0800" Modified="2023-09-27 21:15:15 +0800">
             <Title>剧情正文</Title>
@@ -16,13 +16,13 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem UUID="36DFE7FC-F413-4535-A23C-9ADCD417074D" Type="Text" Created="2023-09-27 21:45:34 +0800" Modified="2023-10-07 21:30:54 +0800">
+                        <BinderItem UUID="36DFE7FC-F413-4535-A23C-9ADCD417074D" Type="Text" Created="2023-09-27 21:45:34 +0800" Modified="2023-10-11 00:12:09 +0800">
                             <Title>女主眼中的世界</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>5,0</TextSelection>
+                                <TextSelection>55,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -98,7 +98,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>78,0</TextSelection>
+                                <TextSelection>110,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -135,22 +135,22 @@
                                 <TextSelection>96,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="BC4E1170-B364-470F-B039-7935443092A0" Type="Text" Created="2023-09-27 21:36:18 +0800" Modified="2023-10-07 21:57:05 +0800">
-                            <Title>凯瑟琳</Title>
+                        <BinderItem UUID="BC4E1170-B364-470F-B039-7935443092A0" Type="Text" Created="2023-09-27 21:36:18 +0800" Modified="2023-10-08 12:31:15 +0800">
+                            <Title>凯茜</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>70,0</TextSelection>
+                                <TextSelection Caret="2">0,2</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="541E9B50-48F5-4F12-B7D2-DD5B3BA8C23A" Type="Text" Created="2023-09-27 21:38:04 +0800" Modified="2023-10-07 21:29:15 +0800">
+                        <BinderItem UUID="541E9B50-48F5-4F12-B7D2-DD5B3BA8C23A" Type="Text" Created="2023-09-27 21:38:04 +0800" Modified="2023-10-08 12:30:48 +0800">
                             <Title>爱丽丝</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>87,0</TextSelection>
+                                <TextSelection>80,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="F251D0FA-56FD-405A-A99C-6CDBBDFB8479" Type="Text" Created="2023-09-27 21:40:35 +0800" Modified="2023-09-27 21:45:18 +0800">
@@ -198,7 +198,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>40,0</TextSelection>
+                                <TextSelection>6,20</TextSelection>
                             </TextSettings>
                         </BinderItem>
                         <BinderItem UUID="5BCCA907-6AAE-456D-BE8F-F6FD3DED3A07" Type="Text" Created="2023-09-27 21:14:22 +0800" Modified="2023-10-07 23:42:55 +0800">
@@ -207,7 +207,7 @@
                                 <IncludeInCompile>Yes</IncludeInCompile>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>37,0</TextSelection>
+                                <TextSelection>6,21</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -286,13 +286,13 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-09-27 21:09:17 +0800" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="Yes" ResetType="Time" ResetTime="01:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="9" Characters="-31" Date="2023-10-07 23:43:57 +0800"/>
+        <PreviousSession Words="-1" Characters="-6" Date="2023-10-11 00:36:24 +0800"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2023-10-07 00:00:00 +0800">
-        <DraftWordCount>21</DraftWordCount>
-        <DraftCharCount>124</DraftCharCount>
-        <OtherWordCount>-20</OtherWordCount>
-        <OtherCharCount>-245</OtherCharCount>
+    <RecentWritingHistory Date="2023-10-11 00:00:00 +0800">
+        <DraftWordCount>-1</DraftWordCount>
+        <DraftCharCount>-6</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
     <PrintSettings PaperSize="595.0,842.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="72.0" BottomMargin="72.0" PaperType="iso-a4" Orientation="Portrait" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" PagesAcross="1" PagesDown="1"/>
 </ScrivenerProject>
